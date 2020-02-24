@@ -1,4 +1,4 @@
-# leaflet-challenge
+# Leaflet-Challenge
 
 The USGS provides earthquake data in a number of different formats, updated every 5 minutes. I visited the USGS GeoJSON Feed page and pick a data set to visualize. When you click on a data set, for example 'All Earthquakes from the Past 7 Days', you will be given a visual representation of that data.
 
